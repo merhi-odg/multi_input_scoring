@@ -1,0 +1,22 @@
+{
+    "type":"record",
+    "name": "output_schema.avsc",
+    "fields": [
+        {
+            "name": "a",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "float"
+        },
+        {
+            "name": "c",
+            "type": "string"
+        },
+        {
+            "name": "d",
+            "type": "boolean"
+        }
+    ]
+}
