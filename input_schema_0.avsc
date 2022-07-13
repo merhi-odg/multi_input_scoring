@@ -1,0 +1,14 @@
+{
+    "type":"record",
+    "name": "input_schema_0.avsc",
+    "fields": [
+        {
+            "name": "a",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "float"
+        }
+    ]
+}
