@@ -1,0 +1,14 @@
+{
+    "type":"record",
+    "name": "input_schema_0.avsc",
+    "fields": [
+        {
+            "name": "c",
+            "type": "string"
+        },
+        {
+            "name": "d",
+            "type": "boolean"
+        }
+    ]
+}
