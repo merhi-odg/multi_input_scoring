@@ -3,6 +3,7 @@
 # modelop.schema.1: output_schema.avsc
 
 
+# modelop.score
 def action(input_1: dict, input_2: dict) -> dict:
     """concatenate two dicts into one and return that
 
